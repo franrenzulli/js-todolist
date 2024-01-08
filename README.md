@@ -1,2 +1,2 @@
-# Javascript.ListaTareas
-Una lista de cosas por hacer para organizar mejor tu dia. 
+# Javascript To Do List
+A basic TO-DO list CRUD to organize your day. 
